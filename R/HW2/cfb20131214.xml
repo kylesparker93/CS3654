@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<stats>
+<year>2013</year><league>College Football</league>
+<game><date>2013-12-14</date><team><name>Army </name><site>N</site><line>-12</line><offense><pts>7 </pts><rush><att>45 </att><yds>157 </yds></rush><pass><att>11 </att><comp>5 </comp><yds>50 </yds></pass><turnovers><int>1 </int><fumbles>2
+</fumbles></turnovers></offense><opponent>Navy </opponent><defense><pts>34 </pts><rush><att>57 </att><yds>343 </yds></rush><pass><att>7 </att><comp>2 </comp><yds>10 </yds></pass><turnovers><int>0 </int><fumbles>0 </fumbles></turnovers></defense></team>
+</game>
+<game><date>2013-12-14</date><team><name>Navy </name><site>N</site><line>12</line><offense><pts>34 </pts><rush><att>57 </att><yds>343 </yds></rush><pass><att>7 </att><comp>2 </comp><yds>10 </yds></pass><turnovers><int>0 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Army </opponent><defense><pts>7 </pts><rush><att>45 </att><yds>157 </yds></rush><pass><att>11 </att><comp>5 </comp><yds>50 </yds></pass><turnovers><int>1 </int><fumbles>2 </fumbles></turnovers></defense></team>
+</game>
+</stats>

@@ -38,3 +38,8 @@ dtest = subset(psub,ORIGRANDGROUP < 500)
 
 #2.14
 summary(dtrain$COW)
+
+install.packages("XML")
+library("XML")
+url<- "http://www.repole.com/sun4cast/stats/cfb20130907.xml"
+myData <- xmlToDataFrame(url)

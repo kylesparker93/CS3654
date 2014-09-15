@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<stats>
+<year>2013</year><league>College Football</league>
+<game><date>2013-09-26</date><team><name>Georgia Tech </name><site>H</site><line>7.5</line><offense><pts>10 </pts><rush><att>42 </att><yds>129 </yds></rush><pass><att>24 </att><comp>7 </comp><yds>144 </yds></pass><turnovers><int>2 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>Virginia Tech </opponent><defense><pts>17 </pts><rush><att>27 </att><yds>55 </yds></rush><pass><att>25 </att><comp>19 </comp><yds>221 </yds></pass><turnovers><int>0 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-26</date><team><name>Iowa State </name><site>V</site><line>-3</line><offense><pts>38 </pts><rush><att>44 </att><yds>179 </yds></rush><pass><att>42 </att><comp>26 </comp><yds>255 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Tulsa </opponent><defense><pts>21 </pts><rush><att>28 </att><yds>86 </yds></rush><pass><att>49 </att><comp>26 </comp><yds>288 </yds></pass><turnovers><int>1 </int><fumbles>3 </fumbles></turnovers></defense></team>
+</game>
+<game><date>2013-09-26</date><team><name>Tulsa </name><site>H</site><line>3</line><offense><pts>21 </pts><rush><att>28 </att><yds>86 </yds></rush><pass><att>49 </att><comp>26 </comp><yds>288 </yds></pass><turnovers><int>1 </int><fumbles>3
+</fumbles></turnovers></offense><opponent>Iowa State </opponent><defense><pts>38 </pts><rush><att>44 </att><yds>179 </yds></rush><pass><att>42 </att><comp>26 </comp><yds>255 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-26</date><team><name>Virginia Tech </name><site>V</site><line>-7.5</line><offense><pts>17 </pts><rush><att>27 </att><yds>55 </yds></rush><pass><att>25 </att><comp>19 </comp><yds>221 </yds></pass><turnovers><int>0 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Georgia Tech </opponent><defense><pts>10 </pts><rush><att>42 </att><yds>129 </yds></rush><pass><att>24 </att><comp>7 </comp><yds>144 </yds></pass><turnovers><int>2 </int><fumbles>1 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-27</date><team><name>Brigham Young </name><site>H</site><line>23</line><offense><pts>37 </pts><rush><att>55 </att><yds>309 </yds></rush><pass><att>19 </att><comp>14 </comp><yds>177 </yds></pass><turnovers><int>1 </int><fumbles>4
+</fumbles></turnovers></offense><opponent>Middle Tennessee </opponent><defense><pts>10 </pts><rush><att>41 </att><yds>107 </yds></rush><pass><att>34 </att><comp>16 </comp><yds>105 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-27</date><team><name>Middle Tennessee </name><site>V</site><line>-23</line><offense><pts>10 </pts><rush><att>41 </att><yds>107 </yds></rush><pass><att>34 </att><comp>16 </comp><yds>105 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Brigham Young </opponent><defense><pts>37 </pts><rush><att>55 </att><yds>309 </yds></rush><pass><att>19 </att><comp>14 </comp><yds>177 </yds></pass><turnovers><int>1 </int><fumbles>4 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-27</date><team><name>San Jose State </name><site>H</site><line>-10.5</line><offense><pts>12 </pts><rush><att>35 </att><yds>101 </yds></rush><pass><att>52 </att><comp>28 </comp><yds>336 </yds></pass><turnovers><int>3 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>Utah State </opponent><defense><pts>40 </pts><rush><att>50 </att><yds>253 </yds></rush><pass><att>43 </att><comp>30 </comp><yds>267 </yds></pass><turnovers><int>0 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-27</date><team><name>Utah State </name><site>V</site><line>10.5</line><offense><pts>40 </pts><rush><att>50 </att><yds>253 </yds></rush><pass><att>43 </att><comp>30 </comp><yds>267 </yds></pass><turnovers><int>0 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>San Jose State </opponent><defense><pts>12 </pts><rush><att>35 </att><yds>101 </yds></rush><pass><att>52 </att><comp>28 </comp><yds>336 </yds></pass><turnovers><int>3 </int><fumbles>1 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>Air Force </name><site>V</site><line>-12.5</line><offense><pts>42 </pts><rush><att>51 </att><yds>375 </yds></rush><pass><att>11 </att><comp>6 </comp><yds>78 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Nevada-Reno </opponent><defense><pts>45 </pts><rush><att>44 </att><yds>210 </yds></rush><pass><att>56 </att><comp>38 </comp><yds>389 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Akron </name><site>V</site><line>-15</line><offense><pts>14 </pts><rush><att>25 </att><yds>97 </yds></rush><pass><att>37 </att><comp>22 </comp><yds>199 </yds></pass><turnovers><int>0 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Bowling Green </opponent><defense><pts>31 </pts><rush><att>44 </att><yds>167 </yds></rush><pass><att>24 </att><comp>18 </comp><yds>229 </yds></pass><turnovers><int>0 </int><fumbles>0 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>Alabama </name><site>H</site><line>14.5</line><offense><pts>25 </pts><rush><att>40 </att><yds>254 </yds></rush><pass><att>32 </att><comp>25 </comp><yds>180 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Mississippi </opponent><defense><pts>0 </pts><rush><att>25 </att><yds>46 </yds></rush><pass><att>32 </att><comp>17 </comp><yds>159 </yds></pass><turnovers><int>1 </int><fumbles>1 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Arizona </name><site>V</site><line>-9.5</line><offense><pts>13 </pts><rush><att>49 </att><yds>199 </yds></rush><pass><att>37 </att><comp>14 </comp><yds>119 </yds></pass><turnovers><int>2 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Washington </opponent><defense><pts>31 </pts><rush><att>61 </att><yds>244 </yds></rush><pass><att>25 </att><comp>14 </comp><yds>165 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Arizona State </name><site>H</site><line>4.5</line><offense><pts>62 </pts><rush><att>35 </att><yds>261 </yds></rush><pass><att>35 </att><comp>24 </comp><yds>351 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Southern Cal </opponent><defense><pts>41 </pts><rush><att>37 </att><yds>247 </yds></rush><pass><att>30 </att><comp>20 </comp><yds>295 </yds></pass><turnovers><int>3 </int><fumbles>1 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Arkansas </name><site>H</site><line>-14.5</line><offense><pts>33 </pts><rush><att>30 </att><yds>201 </yds></rush><pass><att>36 </att><comp>17 </comp><yds>282 </yds></pass><turnovers><int>2 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Texas A+M </opponent><defense><pts>45 </pts><rush><att>44 </att><yds>262 </yds></rush><pass><att>30 </att><comp>23 </comp><yds>261 </yds></pass><turnovers><int>0 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Arkansas State </name><site>V</site><line>-22.5</line><offense><pts>19 </pts><rush><att>41 </att><yds>117 </yds></rush><pass><att>47 </att><comp>37 </comp><yds>308 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Missouri </opponent><defense><pts>41 </pts><rush><att>28 </att><yds>239 </yds></rush><pass><att>30 </att><comp>21 </comp><yds>256 </yds></pass><turnovers><int>0 </int><fumbles>1 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Army </name><site>N</site><line>-3.5</line><offense><pts>35 </pts><rush><att>77 </att><yds>414 </yds></rush><pass><att>3 </att><comp>1 </comp><yds>16 </yds></pass><turnovers><int>0 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Louisiana Tech </opponent><defense><pts>16 </pts><rush><att>23 </att><yds>57 </yds></rush><pass><att>36 </att><comp>20 </comp><yds>320 </yds></pass><turnovers><int>1 </int><fumbles>1 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>Ball State </name><site>H</site><line>1.5</line><offense><pts>31 </pts><rush><att>36 </att><yds>128 </yds></rush><pass><att>39 </att><comp>27 </comp><yds>335 </yds></pass><turnovers><int>1 </int><fumbles>2
+</fumbles></turnovers></offense><opponent>Toledo </opponent><defense><pts>24 </pts><rush><att>29 </att><yds>141 </yds></rush><pass><att>46 </att><comp>34 </comp><yds>274 </yds></pass><turnovers><int>1 </int><fumbles>1 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Boise State </name><site>H</site><line>29</line><offense><pts>60 </pts><rush><att>52 </att><yds>229 </yds></rush><pass><att>27 </att><comp>23 </comp><yds>316 </yds></pass><turnovers><int>0 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>Southern Miss </opponent><defense><pts>7 </pts><rush><att>30 </att><yds>103 </yds></rush><pass><att>34 </att><comp>21 </comp><yds>163 </yds></pass><turnovers><int>2 </int><fumbles>1 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Boston College </name><site>H</site><line>-24.5</line><offense><pts>34 </pts><rush><att>45 </att><yds>200 </yds></rush><pass><att>28 </att><comp>18 </comp><yds>197 </yds></pass><turnovers><int>2 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Florida State </opponent><defense><pts>48 </pts><rush><att>36 </att><yds>159 </yds></rush><pass><att>27 </att><comp>17 </comp><yds>330 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>Bowling Green </name><site>H</site><line>15</line><offense><pts>31 </pts><rush><att>44 </att><yds>167 </yds></rush><pass><att>24 </att><comp>18 </comp><yds>229 </yds></pass><turnovers><int>0 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Akron </opponent><defense><pts>14 </pts><rush><att>25 </att><yds>97 </yds></rush><pass><att>37 </att><comp>22 </comp><yds>199 </yds></pass><turnovers><int>0 </int><fumbles>0 </fumbles></turnovers></defense></team>
+</game>
+<game><date>2013-09-28</date><team><name>Buffalo </name><site>H</site><line>-1.5</line><offense><pts>41 </pts><rush><att>43 </att><yds>153 </yds></rush><pass><att>21 </att><comp>10 </comp><yds>177 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Connecticut </opponent><defense><pts>12 </pts><rush><att>39 </att><yds>27 </yds></rush><pass><att>29 </att><comp>12 </comp><yds>193 </yds></pass><turnovers><int>3 </int><fumbles>1 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>California </name><site>V</site><line>-38.5</line><offense><pts>16 </pts><rush><att>51 </att><yds>149 </yds></rush><pass><att>44 </att><comp>21 </comp><yds>176 </yds></pass><turnovers><int>1 </int><fumbles>4
+</fumbles></turnovers></offense><opponent>Oregon </opponent><defense><pts>55 </pts><rush><att>48 </att><yds>264 </yds></rush><pass><att>26 </att><comp>12 </comp><yds>117 </yds></pass><turnovers><int>0 </int><fumbles>2 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Central Michigan </name><site>V</site><line>-24</line><offense><pts>14 </pts><rush><att>26 </att><yds>94 </yds></rush><pass><att>37 </att><comp>16 </comp><yds>165 </yds></pass><turnovers><int>3 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>No Carolina State </opponent><defense><pts>48 </pts><rush><att>52 </att><yds>239 </yds></rush><pass><att>20 </att><comp>14 </comp><yds>244 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>Clemson </name><site>H</site><line>29.5</line><offense><pts>56 </pts><rush><att>47 </att><yds>166 </yds></rush><pass><att>36 </att><comp>28 </comp><yds>407 </yds></pass><turnovers><int>0 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Wake Forest </opponent><defense><pts>7 </pts><rush><att>31 </att><yds>60 </yds></rush><pass><att>30 </att><comp>19 </comp><yds>162 </yds></pass><turnovers><int>1 </int><fumbles>1 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Colorado </name><site>V</site><line>-12</line><offense><pts>17 </pts><rush><att>35 </att><yds>154 </yds></rush><pass><att>34 </att><comp>14 </comp><yds>146 </yds></pass><turnovers><int>2 </int><fumbles>2
+</fumbles></turnovers></offense><opponent>Oregon State </opponent><defense><pts>44 </pts><rush><att>34 </att><yds>120 </yds></rush><pass><att>54 </att><comp>28 </comp><yds>420 </yds></pass><turnovers><int>1 </int><fumbles>1 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Colorado State </name><site>H</site><line>13.5</line><offense><pts>59 </pts><rush><att>34 </att><yds>250 </yds></rush><pass><att>29 </att><comp>18 </comp><yds>341 </yds></pass><turnovers><int>0 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>UTEP </opponent><defense><pts>42 </pts><rush><att>47 </att><yds>132 </yds></rush><pass><att>43 </att><comp>26 </comp><yds>365 </yds></pass><turnovers><int>0 </int><fumbles>1 </fumbles></turnovers></defense></team>
+</game>
+<game><date>2013-09-28</date><team><name>Connecticut </name><site>V</site><line>1.5</line><offense><pts>12 </pts><rush><att>40 </att><yds>18 </yds></rush><pass><att>28 </att><comp>12 </comp><yds>193 </yds></pass><turnovers><int>3 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>Buffalo </opponent><defense><pts>41 </pts><rush><att>43 </att><yds>153 </yds></rush><pass><att>21 </att><comp>10 </comp><yds>177 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Duke </name><site>H</site><line>13.5</line><offense><pts>38 </pts><rush><att>39 </att><yds>190 </yds></rush><pass><att>28 </att><comp>20 </comp><yds>324 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Troy </opponent><defense><pts>31 </pts><rush><att>41 </att><yds>150 </yds></rush><pass><att>50 </att><comp>37 </comp><yds>362 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers></defense></team>
+</game>
+<game><date>2013-09-28</date><team><name>East Carolina </name><site>V</site><line>-12.5</line><offense><pts>55 </pts><rush><att>54 </att><yds>227 </yds></rush><pass><att>47 </att><comp>32 </comp><yds>376 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>North Carolina </opponent><defense><pts>31 </pts><rush><att>32 </att><yds>67 </yds></rush><pass><att>47 </att><comp>29 </comp><yds>398 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>Florida </name><site>V</site><line>12</line><offense><pts>24 </pts><rush><att>45 </att><yds>246 </yds></rush><pass><att>18 </att><comp>15 </comp><yds>156 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Kentucky </opponent><defense><pts>7 </pts><rush><att>21 </att><yds>48 </yds></rush><pass><att>26 </att><comp>17 </comp><yds>125 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Florida Atlantic </name><site>V</site><line>-14.5</line><offense><pts>14 </pts><rush><att>28 </att><yds>94 </yds></rush><pass><att>46 </att><comp>22 </comp><yds>272 </yds></pass><turnovers><int>2 </int><fumbles>2
+</fumbles></turnovers></offense><opponent>Rice </opponent><defense><pts>18 </pts><rush><att>51 </att><yds>204 </yds></rush><pass><att>25 </att><comp>7 </comp><yds>69 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers></defense></team>
+</game>
+<game><date>2013-09-28</date><team><name>Florida State </name><site>V</site><line>24.5</line><offense><pts>48 </pts><rush><att>36 </att><yds>159 </yds></rush><pass><att>27 </att><comp>17 </comp><yds>330 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Boston College </opponent><defense><pts>34 </pts><rush><att>45 </att><yds>200 </yds></rush><pass><att>28 </att><comp>18 </comp><yds>197 </yds></pass><turnovers><int>2 </int><fumbles>0 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>Fresno State </name><site>V</site><line>17.5</line><offense><pts>42 </pts><rush><att>45 </att><yds>206 </yds></rush><pass><att>47 </att><comp>33 </comp><yds>324 </yds></pass><turnovers><int>2 </int><fumbles>3
+</fumbles></turnovers></offense><opponent>Hawaii </opponent><defense><pts>37 </pts><rush><att>35 </att><yds>54 </yds></rush><pass><att>46 </att><comp>24 </comp><yds>377 </yds></pass><turnovers><int>2 </int><fumbles>0 </fumbles></turnovers></defense></team>
+</game>
+<game><date>2013-09-28</date><team><name>Georgia </name><site>H</site><line>3</line><offense><pts>44 </pts><rush><att>36 </att><yds>196 </yds></rush><pass><att>34 </att><comp>20 </comp><yds>298 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Louisiana State </opponent><defense><pts>41 </pts><rush><att>36 </att><yds>77 </yds></rush><pass><att>37 </att><comp>23 </comp><yds>372 </yds></pass><turnovers><int>0 </int><fumbles>1 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>Hawaii </name><site>H</site><line>-17.5</line><offense><pts>37 </pts><rush><att>35 </att><yds>54 </yds></rush><pass><att>46 </att><comp>24 </comp><yds>377 </yds></pass><turnovers><int>2 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Fresno State </opponent><defense><pts>42 </pts><rush><att>45 </att><yds>206 </yds></rush><pass><att>47 </att><comp>33 </comp><yds>324 </yds></pass><turnovers><int>2 </int><fumbles>3 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Houston </name><site>V</site><line>-2</line><offense><pts>59 </pts><rush><att>32 </att><yds>150 </yds></rush><pass><att>39 </att><comp>26 </comp><yds>341 </yds></pass><turnovers><int>0 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Texas-San Antonio </opponent><defense><pts>28 </pts><rush><att>29 </att><yds>128 </yds></rush><pass><att>49 </att><comp>36 </comp><yds>365 </yds></pass><turnovers><int>4 </int><fumbles>1 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>Idaho </name><site>H</site><line>-7.5</line><offense><pts>26 </pts><rush><att>33 </att><yds>168 </yds></rush><pass><att>44 </att><comp>26 </comp><yds>310 </yds></pass><turnovers><int>0 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Temple </opponent><defense><pts>24 </pts><rush><att>29 </att><yds>161 </yds></rush><pass><att>47 </att><comp>23 </comp><yds>249 </yds></pass><turnovers><int>0 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Illinois </name><site>H</site><line>28.5</line><offense><pts>50 </pts><rush><att>43 </att><yds>289 </yds></rush><pass><att>33 </att><comp>23 </comp><yds>312 </yds></pass><turnovers><int>2 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Miami-Ohio </opponent><defense><pts>14 </pts><rush><att>41 </att><yds>155 </yds></rush><pass><att>15 </att><comp>7 </comp><yds>95 </yds></pass><turnovers><int>0 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Iowa </name><site>V</site><line>2.5</line><offense><pts>23 </pts><rush><att>45 </att><yds>246 </yds></rush><pass><att>25 </att><comp>15 </comp><yds>218 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Minnesota </opponent><defense><pts>7 </pts><rush><att>27 </att><yds>30 </yds></rush><pass><att>24 </att><comp>12 </comp><yds>135 </yds></pass><turnovers><int>2 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Kent State </name><site>V</site><line>2</line><offense><pts>32 </pts><rush><att>47 </att><yds>276 </yds></rush><pass><att>30 </att><comp>17 </comp><yds>176 </yds></pass><turnovers><int>1 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>Western Michigan </opponent><defense><pts>14 </pts><rush><att>32 </att><yds>151 </yds></rush><pass><att>23 </att><comp>11 </comp><yds>159 </yds></pass><turnovers><int>2 </int><fumbles>0 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>Kentucky </name><site>H</site><line>-12</line><offense><pts>7 </pts><rush><att>21 </att><yds>48 </yds></rush><pass><att>26 </att><comp>17 </comp><yds>125 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Florida </opponent><defense><pts>24 </pts><rush><att>45 </att><yds>246 </yds></rush><pass><att>18 </att><comp>15 </comp><yds>156 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Louisiana State </name><site>V</site><line>-3</line><offense><pts>41 </pts><rush><att>36 </att><yds>77 </yds></rush><pass><att>37 </att><comp>23 </comp><yds>372 </yds></pass><turnovers><int>0 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>Georgia </opponent><defense><pts>44 </pts><rush><att>36 </att><yds>196 </yds></rush><pass><att>34 </att><comp>20 </comp><yds>298 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Louisiana Tech </name><site>N</site><line>3.5</line><offense><pts>16 </pts><rush><att>23 </att><yds>57 </yds></rush><pass><att>36 </att><comp>20 </comp><yds>320 </yds></pass><turnovers><int>1 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>Army </opponent><defense><pts>35 </pts><rush><att>77 </att><yds>414 </yds></rush><pass><att>3 </att><comp>1 </comp><yds>16 </yds></pass><turnovers><int>0 </int><fumbles>0 </fumbles></turnovers></defense></team>
+</game>
+<game><date>2013-09-28</date><team><name>Miami-Florida </name><site>V</site><line>18.5</line><offense><pts>49 </pts><rush><att>39 </att><yds>165 </yds></rush><pass><att>32 </att><comp>19 </comp><yds>375 </yds></pass><turnovers><int>2 </int><fumbles>2
+</fumbles></turnovers></offense><opponent>South Florida </opponent><defense><pts>21 </pts><rush><att>33 </att><yds>99 </yds></rush><pass><att>27 </att><comp>13 </comp><yds>189 </yds></pass><turnovers><int>1 </int><fumbles>2 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Miami-Ohio </name><site>V</site><line>-28.5</line><offense><pts>14 </pts><rush><att>41 </att><yds>155 </yds></rush><pass><att>15 </att><comp>7 </comp><yds>95 </yds></pass><turnovers><int>0 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Illinois </opponent><defense><pts>50 </pts><rush><att>43 </att><yds>289 </yds></rush><pass><att>33 </att><comp>23 </comp><yds>312 </yds></pass><turnovers><int>2 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Minnesota </name><site>H</site><line>-2.5</line><offense><pts>7 </pts><rush><att>27 </att><yds>30 </yds></rush><pass><att>24 </att><comp>12 </comp><yds>135 </yds></pass><turnovers><int>2 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Iowa </opponent><defense><pts>23 </pts><rush><att>45 </att><yds>246 </yds></rush><pass><att>25 </att><comp>15 </comp><yds>218 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers></defense></team>
+</game>
+<game><date>2013-09-28</date><team><name>Mississippi </name><site>V</site><line>-14.5</line><offense><pts>0 </pts><rush><att>25 </att><yds>46 </yds></rush><pass><att>32 </att><comp>17 </comp><yds>159 </yds></pass><turnovers><int>1 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>Alabama </opponent><defense><pts>25 </pts><rush><att>40 </att><yds>254 </yds></rush><pass><att>32 </att><comp>25 </comp><yds>180 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Missouri </name><site>H</site><line>22.5</line><offense><pts>41 </pts><rush><att>28 </att><yds>239 </yds></rush><pass><att>30 </att><comp>21 </comp><yds>256 </yds></pass><turnovers><int>0 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>Arkansas State </opponent><defense><pts>19 </pts><rush><att>41 </att><yds>117 </yds></rush><pass><att>47 </att><comp>37 </comp><yds>308 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>Navy </name><site>V</site><line>4</line><offense><pts>7 </pts><rush><att>33 </att><yds>107 </yds></rush><pass><att>17 </att><comp>7 </comp><yds>76 </yds></pass><turnovers><int>2 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Western Kentucky </opponent><defense><pts>19 </pts><rush><att>43 </att><yds>219 </yds></rush><pass><att>31 </att><comp>25 </comp><yds>198 </yds></pass><turnovers><int>1 </int><fumbles>1 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>Nevada-Las Vegas </name><site>V</site><line>-1.5</line><offense><pts>56 </pts><rush><att>37 </att><yds>248 </yds></rush><pass><att>35 </att><comp>25 </comp><yds>320 </yds></pass><turnovers><int>0 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>New Mexico </opponent><defense><pts>42 </pts><rush><att>59 </att><yds>497 </yds></rush><pass><att>13 </att><comp>5 </comp><yds>84 </yds></pass><turnovers><int>0 </int><fumbles>2 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Nevada-Reno </name><site>H</site><line>12.5</line><offense><pts>45 </pts><rush><att>44 </att><yds>210 </yds></rush><pass><att>56 </att><comp>38 </comp><yds>389 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Air Force </opponent><defense><pts>42 </pts><rush><att>51 </att><yds>375 </yds></rush><pass><att>11 </att><comp>6 </comp><yds>78 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>New Mexico </name><site>H</site><line>1.5</line><offense><pts>42 </pts><rush><att>59 </att><yds>497 </yds></rush><pass><att>13 </att><comp>5 </comp><yds>84 </yds></pass><turnovers><int>0 </int><fumbles>2
+</fumbles></turnovers></offense><opponent>Nevada-Las Vegas </opponent><defense><pts>56 </pts><rush><att>37 </att><yds>248 </yds></rush><pass><att>35 </att><comp>25 </comp><yds>320 </yds></pass><turnovers><int>0 </int><fumbles>1 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>New Mexico State </name><site>H</site><line>-16.5</line><offense><pts>16 </pts><rush><att>27 </att><yds>40 </yds></rush><pass><att>35 </att><comp>23 </comp><yds>228 </yds></pass><turnovers><int>0 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>San Diego State </opponent><defense><pts>26 </pts><rush><att>43 </att><yds>212 </yds></rush><pass><att>34 </att><comp>22 </comp><yds>229 </yds></pass><turnovers><int>0 </int><fumbles>1 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>No Carolina State </name><site>H</site><line>24</line><offense><pts>48 </pts><rush><att>52 </att><yds>239 </yds></rush><pass><att>20 </att><comp>14 </comp><yds>244 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Central Michigan </opponent><defense><pts>14 </pts><rush><att>26 </att><yds>94 </yds></rush><pass><att>37 </att><comp>16 </comp><yds>165 </yds></pass><turnovers><int>3 </int><fumbles>0 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>North Carolina </name><site>H</site><line>12.5</line><offense><pts>31 </pts><rush><att>32 </att><yds>67 </yds></rush><pass><att>47 </att><comp>29 </comp><yds>398 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>East Carolina </opponent><defense><pts>55 </pts><rush><att>54 </att><yds>227 </yds></rush><pass><att>47 </att><comp>32 </comp><yds>376 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>Northern Illinois </name><site>V</site><line>4</line><offense><pts>55 </pts><rush><att>36 </att><yds>177 </yds></rush><pass><att>26 </att><comp>19 </comp><yds>225 </yds></pass><turnovers><int>0 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>Purdue </opponent><defense><pts>24 </pts><rush><att>30 </att><yds>153 </yds></rush><pass><att>55 </att><comp>24 </comp><yds>371 </yds></pass><turnovers><int>4 </int><fumbles>1 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Notre Dame </name><site>H</site><line>-4.5</line><offense><pts>21 </pts><rush><att>29 </att><yds>220 </yds></rush><pass><att>25 </att><comp>9 </comp><yds>104 </yds></pass><turnovers><int>3 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Oklahoma </opponent><defense><pts>35 </pts><rush><att>42 </att><yds>212 </yds></rush><pass><att>31 </att><comp>23 </comp><yds>238 </yds></pass><turnovers><int>0 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Ohio State </name><site>H</site><line>7.5</line><offense><pts>31 </pts><rush><att>43 </att><yds>192 </yds></rush><pass><att>25 </att><comp>17 </comp><yds>198 </yds></pass><turnovers><int>0 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Wisconsin </opponent><defense><pts>24 </pts><rush><att>27 </att><yds>104 </yds></rush><pass><att>34 </att><comp>20 </comp><yds>295 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Oklahoma </name><site>V</site><line>4.5</line><offense><pts>35 </pts><rush><att>42 </att><yds>212 </yds></rush><pass><att>31 </att><comp>23 </comp><yds>238 </yds></pass><turnovers><int>0 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Notre Dame </opponent><defense><pts>21 </pts><rush><att>29 </att><yds>220 </yds></rush><pass><att>25 </att><comp>9 </comp><yds>104 </yds></pass><turnovers><int>3 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Oklahoma State </name><site>V</site><line>20</line><offense><pts>21 </pts><rush><att>40 </att><yds>111 </yds></rush><pass><att>47 </att><comp>20 </comp><yds>322 </yds></pass><turnovers><int>2 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>West Virginia </opponent><defense><pts>30 </pts><rush><att>39 </att><yds>68 </yds></rush><pass><att>51 </att><comp>25 </comp><yds>320 </yds></pass><turnovers><int>2 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Oregon </name><site>H</site><line>38.5</line><offense><pts>55 </pts><rush><att>48 </att><yds>264 </yds></rush><pass><att>26 </att><comp>12 </comp><yds>117 </yds></pass><turnovers><int>0 </int><fumbles>2
+</fumbles></turnovers></offense><opponent>California </opponent><defense><pts>16 </pts><rush><att>51 </att><yds>149 </yds></rush><pass><att>44 </att><comp>21 </comp><yds>176 </yds></pass><turnovers><int>1 </int><fumbles>4 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Oregon State </name><site>H</site><line>12</line><offense><pts>44 </pts><rush><att>34 </att><yds>120 </yds></rush><pass><att>54 </att><comp>28 </comp><yds>420 </yds></pass><turnovers><int>1 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>Colorado </opponent><defense><pts>17 </pts><rush><att>35 </att><yds>154 </yds></rush><pass><att>34 </att><comp>14 </comp><yds>146 </yds></pass><turnovers><int>2 </int><fumbles>2 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Pittsburgh </name><site>H</site><line>6</line><offense><pts>14 </pts><rush><att>35 </att><yds>8 </yds></rush><pass><att>31 </att><comp>13 </comp><yds>191 </yds></pass><turnovers><int>2 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>Virginia </opponent><defense><pts>3 </pts><rush><att>33 </att><yds>65 </yds></rush><pass><att>37 </att><comp>15 </comp><yds>123 </yds></pass><turnovers><int>0 </int><fumbles>2 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Purdue </name><site>H</site><line>-4</line><offense><pts>24 </pts><rush><att>30 </att><yds>153 </yds></rush><pass><att>55 </att><comp>24 </comp><yds>371 </yds></pass><turnovers><int>4 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>Northern Illinois </opponent><defense><pts>55 </pts><rush><att>36 </att><yds>177 </yds></rush><pass><att>26 </att><comp>19 </comp><yds>225 </yds></pass><turnovers><int>0 </int><fumbles>1 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>Rice </name><site>H</site><line>14.5</line><offense><pts>18 </pts><rush><att>51 </att><yds>204 </yds></rush><pass><att>25 </att><comp>7 </comp><yds>69 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Florida Atlantic </opponent><defense><pts>14 </pts><rush><att>28 </att><yds>94 </yds></rush><pass><att>46 </att><comp>22 </comp><yds>272 </yds></pass><turnovers><int>2 </int><fumbles>2 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>S-M-U </name><site>V</site><line>-17</line><offense><pts>17 </pts><rush><att>31 </att><yds>16 </yds></rush><pass><att>44 </att><comp>23 </comp><yds>276 </yds></pass><turnovers><int>4 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>Texas Christian </opponent><defense><pts>48 </pts><rush><att>36 </att><yds>107 </yds></rush><pass><att>26 </att><comp>15 </comp><yds>228 </yds></pass><turnovers><int>0 </int><fumbles>2 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>San Diego State </name><site>V</site><line>16.5</line><offense><pts>26 </pts><rush><att>43 </att><yds>212 </yds></rush><pass><att>34 </att><comp>22 </comp><yds>229 </yds></pass><turnovers><int>0 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>New Mexico State </opponent><defense><pts>16 </pts><rush><att>27 </att><yds>40 </yds></rush><pass><att>35 </att><comp>23 </comp><yds>228 </yds></pass><turnovers><int>0 </int><fumbles>1 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>South Alabama </name><site>V</site><line>-17</line><offense><pts>24 </pts><rush><att>28 </att><yds>135 </yds></rush><pass><att>51 </att><comp>24 </comp><yds>257 </yds></pass><turnovers><int>3 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Tennessee </opponent><defense><pts>31 </pts><rush><att>37 </att><yds>278 </yds></rush><pass><att>36 </att><comp>20 </comp><yds>204 </yds></pass><turnovers><int>3 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>South Carolina </name><site>V</site><line>7</line><offense><pts>28 </pts><rush><att>46 </att><yds>225 </yds></rush><pass><att>34 </att><comp>16 </comp><yds>265 </yds></pass><turnovers><int>1 </int><fumbles>3
+</fumbles></turnovers></offense><opponent>U-C-F </opponent><defense><pts>25 </pts><rush><att>25 </att><yds>69 </yds></rush><pass><att>37 </att><comp>25 </comp><yds>358 </yds></pass><turnovers><int>3 </int><fumbles>1 </fumbles></turnovers></defense></team>
+</game>
+<game><date>2013-09-28</date><team><name>South Florida </name><site>H</site><line>-18.5</line><offense><pts>21 </pts><rush><att>33 </att><yds>99 </yds></rush><pass><att>27 </att><comp>13 </comp><yds>189 </yds></pass><turnovers><int>1 </int><fumbles>2
+</fumbles></turnovers></offense><opponent>Miami-Florida </opponent><defense><pts>49 </pts><rush><att>39 </att><yds>165 </yds></rush><pass><att>32 </att><comp>19 </comp><yds>375 </yds></pass><turnovers><int>2 </int><fumbles>2 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>Southern Cal </name><site>V</site><line>-4.5</line><offense><pts>41 </pts><rush><att>37 </att><yds>247 </yds></rush><pass><att>30 </att><comp>20 </comp><yds>295 </yds></pass><turnovers><int>3 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>Arizona State </opponent><defense><pts>62 </pts><rush><att>35 </att><yds>261 </yds></rush><pass><att>35 </att><comp>24 </comp><yds>351 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>Southern Miss </name><site>V</site><line>-29</line><offense><pts>7 </pts><rush><att>30 </att><yds>103 </yds></rush><pass><att>34 </att><comp>21 </comp><yds>163 </yds></pass><turnovers><int>2 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>Boise State </opponent><defense><pts>60 </pts><rush><att>52 </att><yds>229 </yds></rush><pass><att>27 </att><comp>23 </comp><yds>316 </yds></pass><turnovers><int>0 </int><fumbles>1 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Stanford </name><site>N</site><line>9.5</line><offense><pts>55 </pts><rush><att>40 </att><yds>238 </yds></rush><pass><att>28 </att><comp>17 </comp><yds>322 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Washington State </opponent><defense><pts>17 </pts><rush><att>13 </att><yds>51 </yds></rush><pass><att>65 </att><comp>39 </comp><yds>322 </yds></pass><turnovers><int>2 </int><fumbles>0 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>Temple </name><site>V</site><line>7.5</line><offense><pts>24 </pts><rush><att>29 </att><yds>161 </yds></rush><pass><att>47 </att><comp>23 </comp><yds>249 </yds></pass><turnovers><int>0 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Idaho </opponent><defense><pts>26 </pts><rush><att>33 </att><yds>168 </yds></rush><pass><att>44 </att><comp>26 </comp><yds>310 </yds></pass><turnovers><int>0 </int><fumbles>0 </fumbles></turnovers></defense></team>
+</game>
+<game><date>2013-09-28</date><team><name>Tennessee </name><site>H</site><line>17</line><offense><pts>31 </pts><rush><att>37 </att><yds>278 </yds></rush><pass><att>36 </att><comp>20 </comp><yds>204 </yds></pass><turnovers><int>3 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>South Alabama </opponent><defense><pts>24 </pts><rush><att>28 </att><yds>135 </yds></rush><pass><att>51 </att><comp>24 </comp><yds>257 </yds></pass><turnovers><int>3 </int><fumbles>0 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>Texas A+M </name><site>V</site><line>14.5</line><offense><pts>45 </pts><rush><att>44 </att><yds>262 </yds></rush><pass><att>30 </att><comp>23 </comp><yds>261 </yds></pass><turnovers><int>0 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Arkansas </opponent><defense><pts>33 </pts><rush><att>30 </att><yds>201 </yds></rush><pass><att>36 </att><comp>17 </comp><yds>282 </yds></pass><turnovers><int>2 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Texas Christian </name><site>H</site><line>17</line><offense><pts>48 </pts><rush><att>36 </att><yds>107 </yds></rush><pass><att>26 </att><comp>15 </comp><yds>228 </yds></pass><turnovers><int>0 </int><fumbles>2
+</fumbles></turnovers></offense><opponent>S-M-U </opponent><defense><pts>17 </pts><rush><att>31 </att><yds>16 </yds></rush><pass><att>44 </att><comp>23 </comp><yds>276 </yds></pass><turnovers><int>4 </int><fumbles>1 </fumbles></turnovers></defense></team>
+</game>
+<game><date>2013-09-28</date><team><name>Texas State </name><site>H</site><line>-11</line><offense><pts>42 </pts><rush><att>48 </att><yds>256 </yds></rush><pass><att>19 </att><comp>14 </comp><yds>196 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Wyoming </opponent><defense><pts>21 </pts><rush><att>29 </att><yds>64 </yds></rush><pass><att>48 </att><comp>25 </comp><yds>292 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Texas-San Antonio </name><site>H</site><line>2</line><offense><pts>28 </pts><rush><att>29 </att><yds>128 </yds></rush><pass><att>49 </att><comp>36 </comp><yds>365 </yds></pass><turnovers><int>4 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>Houston </opponent><defense><pts>59 </pts><rush><att>32 </att><yds>150 </yds></rush><pass><att>39 </att><comp>26 </comp><yds>341 </yds></pass><turnovers><int>0 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Toledo </name><site>V</site><line>-1.5</line><offense><pts>24 </pts><rush><att>29 </att><yds>141 </yds></rush><pass><att>46 </att><comp>34 </comp><yds>274 </yds></pass><turnovers><int>1 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>Ball State </opponent><defense><pts>31 </pts><rush><att>36 </att><yds>128 </yds></rush><pass><att>39 </att><comp>27 </comp><yds>335 </yds></pass><turnovers><int>1 </int><fumbles>2 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Troy </name><site>V</site><line>-13.5</line><offense><pts>31 </pts><rush><att>41 </att><yds>150 </yds></rush><pass><att>50 </att><comp>37 </comp><yds>362 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Duke </opponent><defense><pts>38 </pts><rush><att>39 </att><yds>190 </yds></rush><pass><att>28 </att><comp>20 </comp><yds>324 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers></defense></team>
+</game>
+<game><date>2013-09-28</date><team><name>Tulane </name><site>V</site><line>-12.5</line><offense><pts>31 </pts><rush><att>53 </att><yds>253 </yds></rush><pass><att>20 </att><comp>7 </comp><yds>65 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>UL-Monroe </opponent><defense><pts>14 </pts><rush><att>24 </att><yds>26 </yds></rush><pass><att>45 </att><comp>22 </comp><yds>267 </yds></pass><turnovers><int>2 </int><fumbles>3 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>U-A-B </name><site>V</site><line>-20</line><offense><pts>24 </pts><rush><att>29 </att><yds>156 </yds></rush><pass><att>36 </att><comp>19 </comp><yds>206 </yds></pass><turnovers><int>2 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Vanderbilt </opponent><defense><pts>52 </pts><rush><att>35 </att><yds>206 </yds></rush><pass><att>29 </att><comp>23 </comp><yds>334 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>U-C-F </name><site>H</site><line>-7</line><offense><pts>25 </pts><rush><att>25 </att><yds>69 </yds></rush><pass><att>37 </att><comp>25 </comp><yds>358 </yds></pass><turnovers><int>3 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>South Carolina </opponent><defense><pts>28 </pts><rush><att>46 </att><yds>225 </yds></rush><pass><att>34 </att><comp>16 </comp><yds>265 </yds></pass><turnovers><int>1 </int><fumbles>3 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>UL-Monroe </name><site>H</site><line>12.5</line><offense><pts>14 </pts><rush><att>24 </att><yds>26 </yds></rush><pass><att>45 </att><comp>22 </comp><yds>267 </yds></pass><turnovers><int>2 </int><fumbles>3
+</fumbles></turnovers></offense><opponent>Tulane </opponent><defense><pts>31 </pts><rush><att>53 </att><yds>253 </yds></rush><pass><att>20 </att><comp>7 </comp><yds>65 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers></defense></team>
+</game>
+<game><date>2013-09-28</date><team><name>UTEP </name><site>V</site><line>-13.5</line><offense><pts>42 </pts><rush><att>47 </att><yds>132 </yds></rush><pass><att>43 </att><comp>26 </comp><yds>365 </yds></pass><turnovers><int>0 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>Colorado State </opponent><defense><pts>59 </pts><rush><att>34 </att><yds>250 </yds></rush><pass><att>29 </att><comp>18 </comp><yds>341 </yds></pass><turnovers><int>0 </int><fumbles>1 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>Vanderbilt </name><site>H</site><line>20</line><offense><pts>52 </pts><rush><att>35 </att><yds>206 </yds></rush><pass><att>29 </att><comp>23 </comp><yds>334 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>U-A-B </opponent><defense><pts>24 </pts><rush><att>29 </att><yds>156 </yds></rush><pass><att>36 </att><comp>19 </comp><yds>206 </yds></pass><turnovers><int>2 </int><fumbles>0 </fumbles></turnovers></defense></team>
+</game>
+<game><date>2013-09-28</date><team><name>Virginia </name><site>V</site><line>-6</line><offense><pts>3 </pts><rush><att>33 </att><yds>65 </yds></rush><pass><att>37 </att><comp>15 </comp><yds>123 </yds></pass><turnovers><int>0 </int><fumbles>2
+</fumbles></turnovers></offense><opponent>Pittsburgh </opponent><defense><pts>14 </pts><rush><att>35 </att><yds>8 </yds></rush><pass><att>31 </att><comp>13 </comp><yds>191 </yds></pass><turnovers><int>2 </int><fumbles>1 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Wake Forest </name><site>V</site><line>-29.5</line><offense><pts>7 </pts><rush><att>31 </att><yds>60 </yds></rush><pass><att>30 </att><comp>19 </comp><yds>162 </yds></pass><turnovers><int>1 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>Clemson </opponent><defense><pts>56 </pts><rush><att>47 </att><yds>166 </yds></rush><pass><att>36 </att><comp>28 </comp><yds>407 </yds></pass><turnovers><int>0 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Washington </name><site>H</site><line>9.5</line><offense><pts>31 </pts><rush><att>61 </att><yds>244 </yds></rush><pass><att>25 </att><comp>14 </comp><yds>165 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Arizona </opponent><defense><pts>13 </pts><rush><att>49 </att><yds>199 </yds></rush><pass><att>37 </att><comp>14 </comp><yds>119 </yds></pass><turnovers><int>2 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Washington State </name><site>N</site><line>-9.5</line><offense><pts>17 </pts><rush><att>13 </att><yds>51 </yds></rush><pass><att>65 </att><comp>39 </comp><yds>322 </yds></pass><turnovers><int>2 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Stanford </opponent><defense><pts>55 </pts><rush><att>40 </att><yds>238 </yds></rush><pass><att>28 </att><comp>17 </comp><yds>322 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>West Virginia </name><site>H</site><line>-20</line><offense><pts>30 </pts><rush><att>39 </att><yds>68 </yds></rush><pass><att>51 </att><comp>25 </comp><yds>320 </yds></pass><turnovers><int>2 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Oklahoma State </opponent><defense><pts>21 </pts><rush><att>39 </att><yds>118 </yds></rush><pass><att>48 </att><comp>21 </comp><yds>315 </yds></pass><turnovers><int>2 </int><fumbles>1 </fumbles></turnovers>
+</defense></team></game>
+<game><date>2013-09-28</date><team><name>Western Kentucky </name><site>H</site><line>-4</line><offense><pts>19 </pts><rush><att>43 </att><yds>217 </yds></rush><pass><att>31 </att><comp>25 </comp><yds>200 </yds></pass><turnovers><int>1 </int><fumbles>1
+</fumbles></turnovers></offense><opponent>Navy </opponent><defense><pts>7 </pts><rush><att>33 </att><yds>107 </yds></rush><pass><att>17 </att><comp>7 </comp><yds>76 </yds></pass><turnovers><int>2 </int><fumbles>0 </fumbles></turnovers></defense></team>
+</game>
+<game><date>2013-09-28</date><team><name>Western Michigan </name><site>H</site><line>-2</line><offense><pts>14 </pts><rush><att>32 </att><yds>151 </yds></rush><pass><att>23 </att><comp>11 </comp><yds>159 </yds></pass><turnovers><int>2 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Kent State </opponent><defense><pts>32 </pts><rush><att>47 </att><yds>276 </yds></rush><pass><att>30 </att><comp>17 </comp><yds>176 </yds></pass><turnovers><int>1 </int><fumbles>1 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Wisconsin </name><site>V</site><line>-7.5</line><offense><pts>24 </pts><rush><att>27 </att><yds>104 </yds></rush><pass><att>34 </att><comp>20 </comp><yds>295 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Ohio State </opponent><defense><pts>31 </pts><rush><att>43 </att><yds>192 </yds></rush><pass><att>25 </att><comp>17 </comp><yds>198 </yds></pass><turnovers><int>0 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+<game><date>2013-09-28</date><team><name>Wyoming </name><site>V</site><line>11</line><offense><pts>21 </pts><rush><att>29 </att><yds>64 </yds></rush><pass><att>48 </att><comp>25 </comp><yds>292 </yds></pass><turnovers><int>1 </int><fumbles>0
+</fumbles></turnovers></offense><opponent>Texas State </opponent><defense><pts>42 </pts><rush><att>48 </att><yds>256 </yds></rush><pass><att>19 </att><comp>14 </comp><yds>196 </yds></pass><turnovers><int>1 </int><fumbles>0 </fumbles></turnovers></defense>
+</team></game>
+</stats>
