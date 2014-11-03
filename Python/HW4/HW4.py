@@ -1,4 +1,5 @@
 import pandas as pd
+import pickle
 
 # 3
 # There is no reshaping needed
@@ -33,3 +34,10 @@ data.Line.replace(' ', '0', inplace=True)
 
 # 6
 # No transformations are needed
+
+
+# 7
+
+
+# 8
+data.to_pickle('data_fr_pickle')
