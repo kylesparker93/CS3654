@@ -20,8 +20,11 @@ mtcars$response <- mtcars$am > 0
 # [,10]	 gear	 Number of forward gears
 # [,11]	 carb	 Number of carburetors
 
-?rpart
-tmodel <- rpart(response ~ am, data=mtcars)
+library(rpart)
+
+f <- 'response ~ mpg + cyl + disp + hp + drat + wt + qsec + vs + gear + carb'
+f
+tmodel <- rpart(f,data=mtcars)
 tmodel
 
 #to visualize tree
@@ -43,4 +46,5 @@ auc_calc <- performance(eval,'auc')
 auc_calc@y.values
 
 plot(performance(eval, "tpr", "fpr"))
-# I see a 100% true positive rate, which is what we would expect
+# I see a very high true positive rate, which is what we would from a
+# well-defined data set such as this

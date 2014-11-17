@@ -31,6 +31,9 @@ head(dTrain$response)
 
 f <- paste('response ~ ',paste(selVars,collapse=' + '),sep='')
 f
+tmodel <- rpart(f,data=dTrain,
+                control=rpart.control(cp=0.001,minsplit=1000,
+                                      minbucket=1000,maxdepth=5))
 tmodel
 
 ?rpart #learn more
