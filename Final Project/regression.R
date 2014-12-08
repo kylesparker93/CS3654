@@ -1,4 +1,4 @@
-setwd("C:\\Users\\Kyle\\Dropbox\\CS\\CS3654\\cmda-group-project\\machinelearn")
+setwd("C:\\Users\\Kyle\\Dropbox\\CS\\CS3654\\Final Project")
 cfb <- read.csv("data/cfb2013stats.csv")
 
 library(rpart)
